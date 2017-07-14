@@ -1,5 +1,7 @@
 # NextJs Forms
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Toy app to submit some data to a backend server and render the results on the client. 
 
 ```bash
